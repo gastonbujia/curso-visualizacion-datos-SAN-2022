@@ -6,7 +6,9 @@
 
 Bienvenides al repositorio del curso de procesamiento y visualización de datos con Python. En este curso haremos una introducción a algunas herramientas de Python que nos permitiran manipular y graficar distintos tipos de datos usando principalmente las librerías Pandas, Matplotlib, Seaborn, entre otras.
 
+<a href='https://www.python-graph-gallery.com/' target="_blank">
 <img src="https://user-images.githubusercontent.com/23127315/192617710-9c4ff3fa-aaa6-4894-96e7-017dba717f54.png" alt="drawing" width="500"/>
+</a>
 
 ## Contenido
 
