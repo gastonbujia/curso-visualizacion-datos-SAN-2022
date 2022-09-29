@@ -2,12 +2,6 @@
 
 # Curso de Procesamiento y Visualización de Datos con Python - SAN 2022
 
-**Docentes** Bianchi Bruno, Bujia Gaston y Juantorena Gustavo
-<a href="https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gastonbujia/curso-visualizacion-datos-SAN-2022" />
-</a>
-Made with [contrib.rocks](https://contrib.rocks).
-
 Bienvenides al repositorio del curso de procesamiento y visualización de datos con Python. En este curso haremos una introducción a algunas herramientas de Python que nos permitiran manipular y graficar distintos tipos de datos usando principalmente las librerías Pandas, Matplotlib, Seaborn, entre otras.
 
 <a href='https://www.python-graph-gallery.com/' target="_blank">
@@ -43,3 +37,11 @@ No necesitarán instalar nada en sus computadoras ya que trabajaremos con [**Goo
 - [Seaborn](https://seaborn.pydata.org/)
 - [StatsModels](https://www.statsmodels.org/dev/api.html)
 - [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
+
+## Docentes
+
+Bujia Gaston, Juantorena Gustavo y Bianchi Bruno
+
+<a href="https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gastonbujia/curso-visualizacion-datos-SAN-2022" />
+</a>
