@@ -2,13 +2,13 @@
 
 # Curso de Procesamiento y Visualización de Datos con Python - SAN 2022
 
-Bienvenides al repositorio del curso de procesamiento y visualización de datos con Python. En este curso haremos una introducción a algunas herramientas de Python que nos permitiran manipular y graficar distintos tipos de datos usando principalmente las librerías Pandas, Matplotlib, Seaborn, entre otras.
+Bienvenides al repositorio del curso de procesamiento y visualización de datos con Python dictado dentro del marco de cursos de formación del [Encuentro anual de la Sociedad Argentina de Neurociencias 2022](https://san2022.saneurociencias.org.ar/). En este curso haremos una introducción a algunas herramientas de Python que nos permitirán manipular y graficar distintos tipos de datos usando principalmente las librerías Pandas, Matplotlib, Seaborn, entre otras. Usaremos ejemplos de problemas de diversas disciplinas de la neurociencia con el objetivo de mostrar la utilidad y versatilidad de estas herramientas para les neurocientifiques.
 
 <a href='https://www.python-graph-gallery.com/' target="_blank">
 <img src="https://user-images.githubusercontent.com/23127315/192617710-9c4ff3fa-aaa6-4894-96e7-017dba717f54.png" alt="drawing" width="500"/>
 </a>
 
-## Contenido
+## Contenidos
 
 **TBD**
 - [Día 0: Introducción a Python]()
@@ -21,14 +21,15 @@ Bienvenides al repositorio del curso de procesamiento y visualización de datos 
 
 ## Requisitos
 
-Los requisitos mínimos pedidos es tener un mínimo conocimiento sobre el lenguaje de programación Python: tipos básicos como **integers**, **floats**, **strings**, **listas**, **diccionarios** y estructuras de control como **if-else**, **for** y **while**. Si no cuentan con esos contenidos básicos, les dejamos un tutorial autoguiado [acá](https://colab.research.google.com/drive/1eIbx_EG5-EHXKZuYvGZvu0PIeB6Pup2_#scrollTo=yDF6xCno802X) pero pueden utilizar cualquier otro que les sea conveniente y cubra los temas mencionados. Además esperamos que cuenten con un conocimiento básico de técnicas estadísticas como medidas resumne y tests de hipótesis.
+Los requisitos mínimos pedidos son: un conocimiento básico sobre el lenguaje de programación Python, tipos básicos como **integers**, **floats**, **strings**, **listas**, **diccionarios** y estructuras de control como **if-else**, **for** y **while**. Si no cuentan con esos contenidos básicos, les dejamos un tutorial autoguiado [acá](https://colab.research.google.com/drive/1eIbx_EG5-EHXKZuYvGZvu0PIeB6Pup2_#scrollTo=yDF6xCno802X) pero pueden utilizar cualquier otro que les sea conveniente y cubra los temas mencionados. Al comienzo del curso daremos ese código a modo de una rápida introducción (repaso) al lenguaje de programación Python que daremos por conocidos. Además esperamos que cuenten con un conocimiento básico de técnicas estadísticas como medidas resumen y tests de hipótesis.
 
-No necesitarán instalar nada en sus computadoras ya que trabajaremos con [**Google Colab**](https://colab.research.google.com/), una herramienta gratuita online que nos permite crear, modificar y reutilizar código en la nube sin necesidad de instalaciones ni problemas de compatibilidad. En caso de que quieran instalar les recomendamos utilizar la distribución de Python de [**Anaconda**](https://www.anaconda.com/products/distribution) la cual ya incluye muchas de las librerías estándar en Python.
+No necesitarán instalar nada en sus computadoras ya que trabajaremos con [**Google Colab**](https://colab.research.google.com/), una herramienta gratuita online que nos permite crear, modificar y reutilizar código en la nube sin necesidad de instalaciones ni problemas de compatibilidad. En caso de que quieran instalar les recomendamos utilizar la distribución de Python de [**Anaconda**](https://www.anaconda.com/products/distribution) la cual ya incluye muchas de las librerías estándar en Python y [Jupyter Notebook](https://jupyter.org/) (ya incluida en Anaconda).
 
 ## Tutoriales
 
 - Python: **TBD**
 - Gráficos: [The Pyton's graph gallery](https://www.python-graph-gallery.com/)
+- Jupyter Notebook: [Introducción](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb#:~:text=Jupyter%20Notebooks%20are%20a%20community,and%20interact%20with%20Jupyter%20Notebooks.)
 
 ## Documentación
 
@@ -37,6 +38,7 @@ No necesitarán instalar nada en sus computadoras ya que trabajaremos con [**Goo
 - [Seaborn](https://seaborn.pydata.org/)
 - [StatsModels](https://www.statsmodels.org/dev/api.html)
 - [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
+- [Jupyter Notebooks](https://jupyter-notebook.readthedocs.io/en/stable/)
 
 ## Docentes
 
