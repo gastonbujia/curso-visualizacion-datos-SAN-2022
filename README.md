@@ -11,13 +11,13 @@ Bienvenides al repositorio del curso de procesamiento y visualización de datos 
 ## Contenidos
 
 **TBD**
-- [Día 0: Introducción a Python]()
-- [Día 1: Introducción a Pandas y Seaborn]()
+- [Día 0: Introducción a Python](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_0.ipynb)
+- [Día 1: Introducción a Pandas y Matplotlib](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_1.ipynb)
 - [Día 2: Manos a la neurodata]()
 
 ## Datos
 
-**TBD**
+En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus respectivas fuentes. En caso de que dejen de ser accesibles por algún motivo los pondremos [aquí] para descargarlos. **PONER REFS?**
 
 ## Requisitos
 
@@ -27,7 +27,6 @@ No necesitarán instalar nada en sus computadoras ya que trabajaremos con [**Goo
 
 ## Tutoriales
 
-- Python: **TBD**
 - Gráficos: [The Pyton's graph gallery](https://www.python-graph-gallery.com/)
 - Jupyter Notebook: [Introducción](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb#:~:text=Jupyter%20Notebooks%20are%20a%20community,and%20interact%20with%20Jupyter%20Notebooks.)
 
