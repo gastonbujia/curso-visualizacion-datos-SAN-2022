@@ -42,8 +42,9 @@ En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus r
 
 ## Docentes
 
-Bujia Gaston, Juantorena Gustavo y Bianchi Bruno
-
 <a href="https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gastonbujia/curso-visualizacion-datos-SAN-2022" />
 </a>
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="drawing" width="18"/> [Bujia Gaston](https://twitter.com/gastonbujia), [Juantorena Gustavo](https://twitter.com/GJuantorena) y [Bianchi Bruno](https://twitter.com/Sci_Brunobian)
