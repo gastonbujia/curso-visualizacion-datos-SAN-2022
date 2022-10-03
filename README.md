@@ -17,7 +17,7 @@ Bienvenides al repositorio del curso de procesamiento y visualización de datos 
 
 ## Datos
 
-En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus respectivas fuentes. En caso de que dejen de ser accesibles por algún motivo los pondremos [aquí] para descargarlos. **PONER REFS?**
+En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus respectivas fuentes. En caso de que dejen de ser accesibles por algún motivo los pondremos [aquí]() para descargarlos.
 
 ## Requisitos
 
