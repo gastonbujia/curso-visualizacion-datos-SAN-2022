@@ -29,6 +29,7 @@ En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus r
 ## Algunos tutoriales y herramientas
 
 - Gráficos: [The Pyton's graph gallery](https://www.python-graph-gallery.com/)
+- Python y datos: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Jupyter Notebook: [Introducción](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb#:~:text=Jupyter%20Notebooks%20are%20a%20community,and%20interact%20with%20Jupyter%20Notebooks.)
 
 ## Documentación
