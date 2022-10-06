@@ -26,7 +26,7 @@ Además en la carpeta `actividades` pueden encontrar los notebooks del día 2 y 
 
 ## Datos
 
-En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus respectivas fuentes. En caso de que dejen de ser accesibles por algún motivo los pondremos [aquí]() para descargarlos.
+En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus respectivas fuentes. En caso de que dejen de ser accesibles por algún motivo los pondremos [aquí](https://drive.google.com/drive/folders/1OECs-ww6T6dN9jMHs94vwrSx2FLd1eVn?usp=sharing) para descargarlos. Y proximamente estarán los videos del curso.
 
 ## Algunos tutoriales y herramientas
 
@@ -51,3 +51,5 @@ En cada notebook estan los datasets que utilizaremos y como obtenerlos con sus r
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="drawing" width="18"/> [Bujia Gaston](https://twitter.com/gastonbujia), [Juantorena Gustavo](https://twitter.com/GJuantorena) y [Bianchi Bruno](https://twitter.com/Sci_Brunobian)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="drawing" width="18"/> {gastonbujia, gjuantorena, brunobian} at gmail 
