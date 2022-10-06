@@ -19,8 +19,10 @@ No necesitarán instalar nada en sus computadoras ya que trabajaremos con [**Goo
 Dentro de la carpeta `notebooks` encontrarán los colabs que usaremos cada uno de los días. 
 
 - [Día 0: Introducción a Python](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_0.ipynb)
-- [Día 1: Introducción a Pandas y Matplotlib](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_1.ipynb)
-- [Día 2: Manos a la neurodata](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_2/SAN_dia_2.ipynb)
+- [Día 1: Introducción a Pandas y Matplotlib](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_1_Pandas_NumPy_plt.ipynb)
+- [Día 2: Gráficos con Seaborn](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_2/SAN_dia_2.ipynb)
+
+Además en la carpeta `actividades` pueden encontrar los notebooks del día 2 y sus respectivas soluciones.
 
 ## Datos
 
