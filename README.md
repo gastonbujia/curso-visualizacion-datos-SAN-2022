@@ -22,6 +22,10 @@ Dentro de la carpeta `notebooks` encontrarán los colabs que usaremos cada uno d
 - [Día 1: Introducción a Pandas y Matplotlib](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_1_Pandas_NumPy_plt.ipynb)
 - [Día 2: Gráficos con Seaborn](https://github.com/gastonbujia/curso-visualizacion-datos-SAN-2022/blob/main/notebooks/SAN_dia_2_Seaborn.ipynb)
 
+Videos de las clases:
+* [Video día 1](https://youtu.be/Ub1J5vAv46k)
+* [Video día 2](https://youtu.be/WPD6VvXl2-w)
+
 Además en la carpeta `actividades` pueden encontrar los notebooks del día 2 y sus respectivas soluciones.
 
 ## Datos
